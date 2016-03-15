@@ -1,5 +1,5 @@
 /** Create table then append to targetDiv, data response from blockspring
-* You need use bootstrap to beatify the table
+* You need use bootstrap to beatify the table.
 **/
 function createTable (targetDiv, data) {
 	// Check table is exist
